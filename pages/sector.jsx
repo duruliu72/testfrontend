@@ -31,6 +31,7 @@ export default function Sector() {
       if (response.data.appStatus) {
         setSectorList([ ...sectorList,response.data.appData]);
         setFormData({
+          ...formData,
           name: "",
         });
         setIsLoading(false);
