@@ -1,5 +1,5 @@
 {
     "localUrl": "http://localhost:5000/api",
     "liveUrl": "http://localhost:5000/api",
-    "apiUrl": "http://localhost:5000/api"
+    "apiUrl": "http://test.websgoal.com/api"
 }
